@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">BINInfo</string>
+    <string name="enter_bin">Enter BIN of Bank Card</string>
+    <string name="find_info">Find Info</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bin_info">BIN Info</string>
+    <string name="input_bin">Input BIN</string>
+    <string name="scheme_network">SCHEME / NETWORK</string>
+    <string name="type">TYPE</string>
+    <string name="brand">BRAND</string>
+    <string name="card_number">CARD NUMBER</string>
+    <string name="length">LENGTH</string>
+    <string name="luhn">LUHN</string>
+    <string name="bank">BANK</string>
+    <string name="prepaid">PREPAID</string>
+    <string name="country">COUNTRY</string>
+    <string name="latitude">latitude</string>
+    <string name="bin">BIN</string>
 </resources>
